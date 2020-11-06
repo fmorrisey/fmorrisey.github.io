@@ -21,9 +21,9 @@ a {
   background: #18616e;
 }
 
-div{
+/* div{
   border: 1px solid #bbbbbb;
-}
+} */
 
 .jumbotron {
   /* border-radius: 15px; */
@@ -54,8 +54,11 @@ h3 {
   font-size: 28px;
 }
 
-h4, h5, h6 {
-  font-family: 'Open Sans', sans-serif;;
+h4 {
+  
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
 }
 
 p {
