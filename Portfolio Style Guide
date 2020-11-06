@@ -1,0 +1,37 @@
+</ Portfolio Design Style Guide />
+COLORS
+hsl(144, 100%, 34%) / #00ad45 / Green
+- MONO	 / Alternate Green #1e944d
+- Split comp / #ad0034 Maroon &  #ad3d00 RedOrange / alt #ad6800
+- Comp	 / #ad1100 Red
+- Analogous	 / #0068ad Blue
+- Base	 / #b0b0b0 Grey
+// See color design files for options
+
+#e5bedc / #e80118 purple/red
+#c5f4d9 / #42419c blue on green
+#368e3f  or #5d27a0 on #bfc2d1 Green / Purple on ghost
+#5ae45a on casal
+#052a79
+
+<#0d4a6b base> on  font #babfcb
+
+FONTS:
+<H1234> Lato / Arvo / Catamaran / labo / Prata
+<Body> Minion Pro
+
+<ALT> Playfair Display / source sans / Pt Sans / Norman
+
+TESTIMONIALS:
+- Forrest exhibits an overwhelming aptitude for problem solving, a growth mindset, and perseverance.
+
+- He is a lifelong learner in the truest sense and showed me the desire to learn as well as the capacity to go from learning to action in a fast amount of time.
+
+Wireframe for the site, external CSS, HQ Images, HQ Copy, Mobile Responsive
+
+H1 48/60
+H2 34/50
+h3 28/38
+h4 18/22
+para 14/24
+
