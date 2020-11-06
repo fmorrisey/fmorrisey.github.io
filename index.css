@@ -1,0 +1,64 @@
+body {
+  padding-top: 1.5rem;
+}
+
+.header {
+  background-color: 24292E
+}
+
+.box{
+  border: 3px solid transparent;
+  background-clip:padding-box;
+  box-shadow: 0 .25rem .75rem rgba(0, 0, .2, .2);
+}
+
+a {
+  font-size: 15px;
+}
+
+
+#mainContainer {
+  background: #18616e;
+}
+
+div{
+  border: 1px solid #bbbbbb;
+}
+
+.jumbotron {
+  /* border-radius: 15px; */
+  padding: 25px;
+}
+
+#avatar {
+  border-radius: 50%;
+  size: 10px;
+}
+.navbar{
+  background-color: #24292E;
+}
+
+
+h1 {
+  font-family: 'Lora', serif;
+  font-size: 55px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 28px;
+}
+
+h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px ;
+}
